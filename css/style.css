@@ -1,0 +1,53 @@
+body {
+    margin: 0px;
+    font-family: 'Archivo', sans-serif;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-bottom: 1%;
+}
+
+#homeimg {
+    height: 300px;
+    width: auto;
+}
+
+body {
+    scroll-behavior: smooth;
+  }
+
+  header {
+    background-color: #ff831e;
+    color: #ffff;
+    padding: 1% 1% 1% 1%;
+  }
+
+  section {
+    padding: 5% 10% 5% 10%;
+  }
+
+  footer {
+    background-color: #e3e0de;
+    padding: 1% 1% 1% 1%;
+  }
+
+  .whitelink {
+    color: #ffff;
+  }
+
+  .active {
+    color: #ff831e;
+    background-color: #ffff;
+    border-radius: 0px 0px 8px 8px;
+  }
+
+  .nounderline {
+    text-decoration: none;
+    padding: 4em 1em 5%;
+  }
+
+  .iconesocial {
+    padding: 1% 1% 2% 1%;
+  }
