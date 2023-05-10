@@ -21,7 +21,7 @@ body {
 
   header {
     background-color: #ff831e !important;
-    color: #ffff;
+    color: #000000;
     padding: 1% 1% 1% 1% !important;
   }
 
@@ -35,12 +35,12 @@ body {
   }
 
   .whitelink {
-    color: #ffff !important;
+    color: #000000;
   }
 
   .active {
     color: #ff831e !important;
-    background-color: #ffff !important;
+    background-color: #000000 !important;
     border-radius: 0px 0px 8px 8px !important;
   }
 
@@ -51,7 +51,7 @@ body {
 
   .iconesocial {
     padding: 1% 1% 4% 1% !important;
-    color: black !important;
+    color: #000000;
   }
 
   #consigliimg {
@@ -71,3 +71,8 @@ body {
   width: auto !important;
   margin: 8%;
 }
+
+.iconesocial:hover {
+    color: #ff831e;
+    text-decoration: none;
+ }
