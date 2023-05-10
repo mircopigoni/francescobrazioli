@@ -21,7 +21,7 @@ body {
   }
 
   header {
-    background-color: #ff831e !important;
+    background-color: #A6A6A6 !important;
     color: #000000;
     padding: 1% 1% 1% 1% !important;
   }
@@ -31,7 +31,7 @@ body {
   }
 
   footer {
-    background-color: #e3e0de;
+    background-color: #A6A6A6;
     padding: 1% 1% 1% 1% !important;
   }
 
@@ -40,7 +40,7 @@ body {
   }
 
   .attive {
-    color: #ff831e !important;
+    color: #A6A6A6 !important;
     background-color: #000000;
     border-radius: 0px 0px 8px 8px !important;
   }
@@ -74,11 +74,21 @@ body {
 }
 
 .iconesocial:hover {
-  color: #ff831e;
+  color: #A6A6A6;
   text-decoration: none;
 }
 
 .grosso:hover {
- color: #000000;
- font-weight: bold;
+ color: #ffff;
 }
+
+#grandezza1 {
+ width:320px;
+ height:500px;
+ margin: 5% 0% 0% 0%;
+}
+
+#grandezza2 {
+  width:320px;
+  height:500px;
+ }
