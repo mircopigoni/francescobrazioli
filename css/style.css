@@ -39,7 +39,7 @@ body {
     color: #000000;
   }
 
-  .active {
+  .attive {
     color: #ff831e !important;
     background-color: #000000;
     border-radius: 0px 0px 8px 8px !important;
@@ -68,9 +68,9 @@ body {
 }
 
 .carousel-inner {
-  height: 600px !important;
+  height: 500px !important;
   width: auto !important;
-  margin: 8%;
+  margin: 8% 5%;
 }
 
 .iconesocial:hover {
