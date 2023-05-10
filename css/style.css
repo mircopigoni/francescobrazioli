@@ -1,17 +1,18 @@
 body {
-    margin: 0px;
-    font-family: 'Archivo', sans-serif;
-    text-align: center;
+    padding: 0px !important;
+    margin: 0px !important;
+    font-family: 'Encode Sans Condensed', sans-serif !important;
+    text-align: center !important;
 }
 
 nav ul li {
     display: inline-block;
-    margin-bottom: 1%;
+    margin-bottom: 1% !important;
 }
 
 #homeimg {
-    height: 300px;
-    width: auto;
+    height: 300px !important;
+    width: auto !important;
 }
 
 body {
@@ -19,35 +20,54 @@ body {
   }
 
   header {
-    background-color: #ff831e;
+    background-color: #ff831e !important;
     color: #ffff;
-    padding: 1% 1% 1% 1%;
+    padding: 1% 1% 1% 1% !important;
   }
 
   section {
-    padding: 5% 10% 5% 10%;
+    padding: 5% 10% 5% 10% !important;
   }
 
   footer {
     background-color: #e3e0de;
-    padding: 1% 1% 1% 1%;
+    padding: 1% 1% 1% 1% !important;
   }
 
   .whitelink {
-    color: #ffff;
+    color: #ffff !important;
   }
 
   .active {
-    color: #ff831e;
-    background-color: #ffff;
-    border-radius: 0px 0px 8px 8px;
+    color: #ff831e !important;
+    background-color: #ffff !important;
+    border-radius: 0px 0px 8px 8px !important;
   }
 
   .nounderline {
-    text-decoration: none;
-    padding: 4em 1em 5%;
+    text-decoration: none !important;
+    padding: 4em 1em 5% !important;
   }
 
   .iconesocial {
-    padding: 1% 1% 2% 1%;
+    padding: 1% 1% 4% 1% !important;
+    color: black !important;
   }
+
+  #consigliimg {
+    height: 400px !important;
+    width: auto !important;
+    margin: 20%;
+}
+
+#mitiimg {
+  height: 400px !important;
+  width: auto !important;
+  margin: 20%;
+}
+
+.carousel-inner {
+  height: 600px !important;
+  width: auto !important;
+  margin: 8%;
+}
