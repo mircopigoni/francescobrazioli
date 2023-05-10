@@ -8,6 +8,7 @@ body {
 nav ul li {
     display: inline-block;
     margin-bottom: 1% !important;
+
 }
 
 #homeimg {
@@ -40,7 +41,7 @@ body {
 
   .active {
     color: #ff831e !important;
-    background-color: #000000 !important;
+    background-color: #000000;
     border-radius: 0px 0px 8px 8px !important;
   }
 
@@ -73,6 +74,11 @@ body {
 }
 
 .iconesocial:hover {
-    color: #ff831e;
-    text-decoration: none;
- }
+  color: #ff831e;
+  text-decoration: none;
+}
+
+.grosso:hover {
+ color: #000000;
+ font-weight: bold;
+}
