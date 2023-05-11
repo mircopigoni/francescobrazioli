@@ -8,7 +8,8 @@ body {
 
 nav ul li {
     display: inline-block;
-    margin-bottom: 0% !important;
+    margin-bottom: 2px !important;
+    margin-top: 0% !important;
 
 }
 
@@ -48,7 +49,7 @@ body {
 
   .nounderline {
     text-decoration: none !important;
-    padding: 4em 7px 5% !important;
+    padding: 3% 2em 3% !important;
   }
 
   .iconesocial {
