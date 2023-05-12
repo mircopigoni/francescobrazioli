@@ -34,7 +34,7 @@ body {
 
   footer {
     background-color: #A6A6A6;
-    padding: 1% 1% 1% 1% !important;
+    padding: 0% 1% 1% 1% !important;
   }
 
   .whitelink {
@@ -104,18 +104,29 @@ body {
   color: #000000;
  }
 
+h5 {
+  color: #000000;
+}
+
  .grosso2:hover {
   color: #000000;
   text-decoration: underline;
  }
  
+ .grosso3:hover {
+  color: #000000;
+  text-decoration: underline;
+ }
+ 
+
+
 .card-title {
   color: #000000;
 }
 
 #page-container {
   position: relative;
-  min-height: 60vh;
+  min-height: 25vh;
 }
 
 #content-wrap {
@@ -136,4 +147,18 @@ body {
 
 .navbar {
   margin: -1% 33% 0%;
+}
+
+.card {
+  border-radius: 60px !important;
+  background-color: #A6A6A6;
+}
+
+.nounderline4 {
+  text-decoration: none;
+ }
+
+ .carousel > .carousel-inner > .carousel-item > img{
+  width:1000px;
+  height:600px;
 }
