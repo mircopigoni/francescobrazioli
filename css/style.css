@@ -108,6 +108,15 @@ h5 {
   color: #000000;
 }
 
+h3 {
+  color: #000000;
+}
+
+h4 {
+  color: #000000;
+}
+
+
  .grosso2:hover {
   color: #000000;
   text-decoration: underline;
@@ -150,7 +159,7 @@ h5 {
 }
 
 .card {
-  border-radius: 60px !important;
+  border-radius: 0px 0px 30px 30px;
   background-color: #A6A6A6;
 }
 
@@ -162,3 +171,8 @@ h5 {
   width:1000px;
   height:600px;
 }
+
+#grandezza3 {
+  width:620px;
+  height:500px;
+ }
