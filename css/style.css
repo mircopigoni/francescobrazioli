@@ -29,7 +29,7 @@ body {
   }
 
   section {
-    padding: 5% 10% 5% 10% !important;
+    padding: 5% 10% 5% 10%;
   }
 
   footer {
@@ -135,7 +135,7 @@ h4 {
 
 #page-container {
   position: relative;
-  min-height: 25vh;
+  min-height: 10vh;
 }
 
 #content-wrap {
@@ -167,12 +167,20 @@ h4 {
   text-decoration: none;
  }
 
+
  .carousel > .carousel-inner > .carousel-item > img{
   width:1000px;
   height:600px;
 }
 
+
 #grandezza3 {
-  width:620px;
-  height:500px;
+  width:650px;
+  height:400px;
+  padding: 1%;
+ }
+
+ .linea {
+  display: inline-block;
+  margin: 3%;
  }
