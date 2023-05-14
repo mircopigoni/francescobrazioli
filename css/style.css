@@ -116,6 +116,9 @@ h4 {
   color: #000000;
 }
 
+h4 {
+  color: #000000;
+}
 
  .grosso2:hover {
   color: #000000;
@@ -177,10 +180,34 @@ h4 {
 #grandezza3 {
   width:650px;
   height:400px;
-  padding: 1%;
+  padding: 0%;
+  margin: 3%;
  }
 
  .linea {
   display: inline-block;
   margin: 3%;
  }
+
+ .column {
+  float: left;
+  width: 33.33%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+
+.biancoz {
+  background-color: #f1f1f1;
+}
