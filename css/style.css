@@ -204,3 +204,17 @@ h4 {
 .middle {
   width: 50%;
 }
+
+#grandezza4 {
+  width:450px;
+  height:650px;
+  padding: 0%;
+  margin: 3%;
+ }
+
+ #grandezza5 {
+  width:950px;
+  height:650px;
+  padding: 0%;
+  margin: 1%;
+ }
