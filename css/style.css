@@ -170,7 +170,6 @@ h4 {
   text-decoration: none;
  }
 
-
  .carousel > .carousel-inner > .carousel-item > img{
   width:1000px;
   height:600px;
@@ -213,7 +212,7 @@ h4 {
  }
 
  #grandezza5 {
-  width:950px;
+  width:1100px;
   height:650px;
   padding: 0%;
   margin: 1%;
@@ -235,5 +234,17 @@ h4 {
  }
 
  #menospazio {
-  padding: 0% 0% 1% 0% !important;
+  padding: 3% 0% 1% 0% !important;
  }
+
+ main {
+  line-height: 1.5;
+ }
+
+ #grandezza7 {
+  width:750px;
+  height:auto;
+  padding: 0%;
+  margin: 0%;
+ }
+ 
