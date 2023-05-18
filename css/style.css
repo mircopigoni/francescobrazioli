@@ -138,7 +138,7 @@ h4 {
 
 #page-container {
   position: relative;
-  min-height: 30vh;
+  min-height: 20vh;
 }
 
 #content-wrap {
@@ -248,3 +248,6 @@ h4 {
   margin: 0%;
  }
  
+ h5 {
+  text-align: right;
+ }
