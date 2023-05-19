@@ -240,11 +240,7 @@ h4 {
   margin: 8% 5%;
 }
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: auto;
-  margin-bottom: auto;
-  width: 50%;
+.item-center {
+  align-items: center;
+  justify-items: center;
 }
