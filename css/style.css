@@ -87,8 +87,8 @@ body {
 }
 
 #grandezza2 {
-  width:65%;
-  height:100%;
+width: 370px;
+height: 520px;
  }
 
  .nounderline2 {
@@ -235,7 +235,7 @@ h4 {
 }
 
 .carousel-inner {
-  height: 50%;
-  width: 90%;
+  height: auto;
+  width: auto;
   margin: 8% 5%;
 }
