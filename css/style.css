@@ -69,11 +69,7 @@ body {
   margin: 20%;
 }
 
-.carousel-inner {
-  height: 500px !important;
-  width: auto !important;
-  margin: 8% 5%;
-}
+
 
 .iconesocial:hover {
   color: #E4E4E4;
@@ -91,8 +87,8 @@ body {
 }
 
 #grandezza2 {
-  width:320px;
-  height:500px;
+  width:65%;
+  height:100%;
  }
 
  .nounderline2 {
@@ -136,21 +132,6 @@ h4 {
   color: #000000;
 }
 
-#page-container {
-  position: relative;
-  min-height: 25vh;
-}
-
-#content-wrap {
-  padding-bottom: 2.5rem;    /* Footer height */
-}
-
-#footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  height: 2.5rem;            /* Footer height */
-}
 
 .nounderline3 {
   text-decoration: none !important;
@@ -169,11 +150,6 @@ h4 {
 .nounderline4 {
   text-decoration: none;
  }
-
- .carousel > .carousel-inner > .carousel-item > img{
-  width:1000px;
-  height:600px;
-}
 
 
 #grandezza3 {
@@ -251,3 +227,15 @@ h4 {
  h6 {
   text-align: right !important;
  }
+
+.fbtondo {
+  border-radius: 100%;
+  height: 15%;
+  width: 15%;
+}
+
+.carousel-inner {
+  height: 50%;
+  width: 90%;
+  margin: 8% 5%;
+}
